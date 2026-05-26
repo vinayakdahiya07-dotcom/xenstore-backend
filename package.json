@@ -1,0 +1,9 @@
+{
+  "name": "xenstore-backend",
+  "version": "1.0.0",
+  "description": "XenStore Vercel backend — Cashfree webhook + key delivery",
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  }
+}
